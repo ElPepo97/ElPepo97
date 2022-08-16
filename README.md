@@ -1,4 +1,4 @@
-## Hola 👋
+## Hi! 👋
 
 ### About Me
 I'm Pedro Umido, Full Stack Developer back-end oriented.
