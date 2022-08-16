@@ -16,7 +16,7 @@ I like to improve my knowledge learning day by day, independently or with my fri
 - HTML5
 - CSS
 
-### My Projects:
+### Projects:
 - https://www.socialn.me
 - https://github.com/llsonyll/social_network
 - https://github.com/ElPepo97/Proyecto-Individual
