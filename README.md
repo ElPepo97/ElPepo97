@@ -3,7 +3,7 @@
 I'm Pedro Umido, Full Stack Developer back-end oriented.
 I like to improve my knowledge learning day by day, independently or with my friends.
 
-## <div align ='center'> 🛠 Some of my Skills: </div>
+## <div align ='center'> 👨‍💻 Some of my Skills: </div>
 <div align='center'>
   <img width='40px' src='https://user-images.githubusercontent.com/102181381/185231737-1ba31713-13f0-48a3-b352-5c2bef06285c.svg' />
   <img width='60px' src='https://user-images.githubusercontent.com/102181381/185236020-ddf7dba0-bdd7-481a-8199-b566edc77dbc.svg' />
@@ -42,6 +42,6 @@ I like to improve my knowledge learning day by day, independently or with my fri
 ### <a href='https://www.socialn.me'> Social Network </a>
 A platform where you can interact with people sharing post, comments (or react to both of them), you can use live-chat or video-call as well. Also you can get a Premium subscription to get only-premium features. The app has an admin dashboard to control content and users. It is also responsive so you can use it on mobile😍
 
-- https://www.socialn.me
-- https://github.com/llsonyll/social_network
-- https://github.com/ElPepo97/Proyecto-Individual
+### 🛠Technologies and Tools
+Try it now <a href='https://www.socialn.me'>here</a>! 
+
