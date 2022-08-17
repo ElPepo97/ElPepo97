@@ -67,4 +67,7 @@ As a part of a 7 devs group, my contribution was:
 <div align='center'> 🔹JavaScript 🔹React.js 🔹Node.js 🔹Redux 🔹Express </div>
 <div align='center'> 🔹PostgreSQL 🔹Sequelize 🔹CSS 🔹HTML 🔹Git </div>
 
-
+## Contact me 🤝
+<div> <a href='https://www.linkedin.com/in/pedro-umido-5b207323b/'> <img width='20px' src='https://cdn-icons-png.flaticon.com/512/174/174857.png' /> LinkedIn </a> </div>
+<div> 📫 pedroumido@outlook.com </div>
+<div> 📱 +54 1123555935 </div>
