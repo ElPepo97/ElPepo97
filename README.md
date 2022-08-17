@@ -46,11 +46,11 @@ I like to improve my knowledge learning day by day, independently or with my fri
 A platform where you can interact with people sharing post, comments (or react to both of them), you can use live-chat or video-call as well. Also you can get a Premium subscription to get only-premium features. The app has an admin dashboard to control content and users. It is also responsive so you can use it on mobile😍
 
 <div align='center'>
-  <img width='500px' src='./assets/images/PF/landing.png' />
-  <img width='500px' src='./assets/images/PF/home.png' />
-  <img width='500px' src='./assets/images/PF/profile.png' />
-  <img width='500px' src='./assets/images/PF/chat.png' />
-  <img width='500px' src='./assets/images/PF/admin.png' />
+  <img width='400px' src='./assets/images/PF/landing.png' />
+  <img width='400px' src='./assets/images/PF/home.png' />
+  <img width='400px' src='./assets/images/PF/profile.png' />
+  <img width='400px' src='./assets/images/PF/chat.png' />
+  <img width='400px' src='./assets/images/PF/admin.png' />
 </div>
 
 Try it now <a href='https://www.socialn.me'>here</a>!
@@ -70,9 +70,9 @@ As a part of a 7 devs group, my contribution was:
 🌎 Henry Countries is an app in which you can see ALL the countries of the world with relevant information on each one of them, in which you will be able to search for countries, filter and sort them, create new tourist activities and navigate through the entire page with a navbar that follows the scroll.
 
 <div align='center'>
-  <img width='500px' src='./assets/images/PI/home.png' />
-  <img width='500px' src='./assets/images/PI/detail.png' />
-  <img width='500px' src='./assets/images/PI/activity.png' />
+  <img width='400px' src='./assets/images/PI/home.png' />
+  <img width='400px' src='./assets/images/PI/detail.png' />
+  <img width='400px' src='./assets/images/PI/activity.png' />
 </div>
 
 ### <div align='center'> 🛠Technologies and Tools </div>
