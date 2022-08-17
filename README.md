@@ -45,6 +45,12 @@ I like to improve my knowledge learning day by day, independently or with my fri
 ### <div align='center'> <a href='https://www.socialn.me'> 💡 Social Network </a> </div>
 A platform where you can interact with people sharing post, comments (or react to both of them), you can use live-chat or video-call as well. Also you can get a Premium subscription to get only-premium features. The app has an admin dashboard to control content and users. It is also responsive so you can use it on mobile😍
 
+<img src='./assets/images/PF/landing.png' />
+<img src='./assets/images/PF/home.png' />
+<img src='./assets/images/PF/profile.png' />
+<img src='./assets/images/PF/chat.png' />
+<img src='./assets/images/PF/admin.png' />
+
 Try it now <a href='https://www.socialn.me'>here</a>!
 
 As a part of a 7 devs group, my contribution was:
@@ -61,6 +67,9 @@ As a part of a 7 devs group, my contribution was:
 ### <div align='center'> 💡 Henry Countries </div>
 🌎 Henry Countries is an app in which you can see ALL the countries of the world with relevant information on each one of them, in which you will be able to search for countries, filter and sort them, create new tourist activities and navigate through the entire page with a navbar that follows the scroll.
 
+<img src='./assets/images/PI/home.png' />
+<img src='./assets/images/PI/detail.png' />
+<img src='./assets/images/PI/activity.png' />
 
 ### <div align='center'> 🛠Technologies and Tools </div>
 
