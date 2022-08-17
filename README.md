@@ -22,20 +22,26 @@ I like to improve my knowledge learning day by day, independently or with my fri
 </div>
 
 <div align='center'>
-  JavaScript
-  Express.js
-  MongoDB
-  NodeJS
-  React.js
-  Redux
-  PostgreSQL
-  Sequelize
-  HTML5
-  TypeScript
-  CSS
+  🔹JavaScript
+  🔸Express.js
+  🔹MongoDB
+  🔸NodeJS
+  🔹React.js
+  🔸Redux
+</div>
+<div align='center'>
+  🔹HTML5
+  🔸Sequelize
+  🔹PostgreSQL
+  🔸TypeScript
+  🔹Git
+  🔸CSS
 </div>
 
-### My Projects
+## <div align='center'> 🗂 My Projects </div>
+### <a href='https://www.socialn.me'> Social Network </a>
+A platform where you can interact with people sharing post, comments (or react to both of them), you can use live-chat or video-call as well. Also you can get a Premium subscription to get only-premium features. The app has an admin dashboard to control content and users. It is also responsive so you can use it on mobile😍
+
 - https://www.socialn.me
 - https://github.com/llsonyll/social_network
 - https://github.com/ElPepo97/Proyecto-Individual
