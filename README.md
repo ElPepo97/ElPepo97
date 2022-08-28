@@ -67,7 +67,7 @@ As a part of a 7 devs group, my contribution was:
 
 <br><br/>
 ### <div align='center'> 💡 Henry Countries </div>
-🌎 Henry Countries is an app in which you can see ALL the countries of the world with relevant information on each one of them, in which you will be able to search for countries, filter and sort them, create new tourist activities and navigate through the entire page with a navbar that follows the scroll.
+🌎 Henry Countries is a SPA in which you can see ALL the countries of the world with relevant information on each one of them, in which you will be able to search for countries, filter and sort them, create new tourist activities, navigate through the entire page with a navbar that follows the scroll and change between dark and light theme. Also, you will find a game section, where you can choose the capital of countries, the flag of the countries or which country has the largest area.
 
 <div align='center'>
   <img width='400px' src='./assets/images/PI/Home.png' />
@@ -83,7 +83,7 @@ As a part of a 7 devs group, my contribution was:
 ### <div align='center'> 🛠Technologies and Tools </div>
 
 <div align='center'> 🔹JavaScript 🔹React.js 🔹Node.js 🔹Redux 🔹Express </div>
-<div align='center'> 🔹PostgreSQL 🔹Sequelize 🔹CSS 🔹HTML 🔹Git </div>
+<div align='center'> 🔹PostgreSQL 🔹Sequelize 🔹CSS 🔹HTML 🔹Git 🔹MaterialUI </div>
 
 ## Contact me 🤝
 <div> <a href='https://www.linkedin.com/in/pedro-umido-5b207323b/'> <img width='20px' src='https://cdn-icons-png.flaticon.com/512/174/174857.png' /> LinkedIn </a> </div>
