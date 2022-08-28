@@ -70,9 +70,14 @@ As a part of a 7 devs group, my contribution was:
 🌎 Henry Countries is an app in which you can see ALL the countries of the world with relevant information on each one of them, in which you will be able to search for countries, filter and sort them, create new tourist activities and navigate through the entire page with a navbar that follows the scroll.
 
 <div align='center'>
-  <img width='400px' src='./assets/images/PI/home.png' />
-  <img width='400px' src='./assets/images/PI/detail.png' />
-  <img width='400px' src='./assets/images/PI/activity.png' />
+  <img width='400px' src='./assets/images/PI/Home.png' />
+  <img width='400px' src='./assets/images/PI/Country-detail.png' />
+  <img width='400px' src='./assets/images/PI/Activity-dark.png' />
+  <img width='400px' src='./assets/images/PI/Game-selector.png' />
+  <img width='400px' src='./assets/images/PI/Capital-game.png' />
+  <img width='400px' src='./assets/images/PI/Flag-game-light.png' />
+  <img width='400px' src='./assets/images/PI/Flag-game-over.png' />
+  <img width='400px' src='./assets/images/PI/Bigger-or-lower.png' />
 </div>
 
 ### <div align='center'> 🛠Technologies and Tools </div>
