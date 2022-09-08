@@ -1,6 +1,6 @@
 # <div align='center'> Hello World! 👋 </div>
 
-I'm Pedro Umido, Full Stack Developer back-end oriented.
+I'm Pedro Umido, Full Stack Web Developer.
 I like to improve my knowledge learning day by day, independently or with my friends.
 
 <br><br/>
