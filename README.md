@@ -85,6 +85,25 @@ As a part of a 7 devs group, my contribution was:
 <div align='center'> 🔹JavaScript 🔹React.js 🔹Node.js 🔹Redux 🔹Express </div>
 <div align='center'> 🔹PostgreSQL 🔹Sequelize 🔹CSS 🔹HTML 🔹Git 🔹MaterialUI </div>
 
+<br><br/>
+### <div align='center'> 💡 <a href='https://breaking-bad-next-js.vercel.app'>Breaking Bad with Next.js</a> </div>
+🌎 Breaking Bad with Next.js is a SPA based on the "breakingbadapi.com" API in which you can see the characters and episodes of each season of the series Breaking Bad and Better Call Saul along with relevant information about each one of them. You can also do things like search characters by name, filter characters and episodes by series, season or episode number, add/remove characters or episodes to a favorites list and play to guess which character said a random phrase.
+
+<div align='center'>
+  <img width='400px' src='./assets/images/Nextjs/Home.png' />
+  <img width='400px' src='./assets/images/Nextjs/Character-Detail.png' />
+  <img width='400px' src='./assets/images/Nextjs/Episodes.png' />
+  <img width='400px' src='./assets/images/Nextjs/Favorites.png' />
+  <img width='400px' src='./assets/images/Nextjs/ScoreTable.png' />
+  <img width='400px' src='./assets/images/Nextjs/Game.png' />
+</div>
+
+Try it now <a href='https://breaking-bad-next-js.vercel.app'>here</a>!
+
+### <div align='center'> 🛠Technologies and Tools </div>
+
+<div align='center'> 🔹Next.js 🔹Node.js 🔹Redux Toolkit 🔹Tailwind CSS </div>
+
 ## Contact me 🤝
 <div> <a href='https://www.linkedin.com/in/pedro-umido-5b207323b/'> <img width='20px' src='https://cdn-icons-png.flaticon.com/512/174/174857.png' /> LinkedIn </a> </div>
 <div> 📫 pedroumido@outlook.com </div>
