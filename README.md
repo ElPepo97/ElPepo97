@@ -87,7 +87,7 @@ As a part of a 7 devs group, my contribution was:
 
 <br><br/>
 ### <div align='center'> 💡 <a href='https://breaking-bad-next-js.vercel.app'>Breaking Bad with Next.js</a> </div>
-🌎 Breaking Bad with Next.js is a SPA based on the "breakingbadapi.com" API in which you can see the characters and episodes of each season of the series Breaking Bad and Better Call Saul along with relevant information about each one of them. You can also do things like search characters by name, filter characters and episodes by series, season or episode number, add/remove characters or episodes to a favorites list and play to guess which character said a random phrase.
+Breaking Bad with Next.js is a SPA based on the "breakingbadapi.com" API in which you can see the characters and episodes of each season of the series Breaking Bad and Better Call Saul along with relevant information about each one of them. You can also do things like search characters by name, filter characters and episodes by series, season or episode number, add/remove characters or episodes to a favorites list and play to guess which character said a random phrase.
 
 <div align='center'>
   <img width='400px' src='./assets/images/Nextjs/Home.png' />
